@@ -11,7 +11,7 @@
                 "name": "Daniele Extension",
                 "uri": "dist/index.html",
                 "fileExtensions": [
-                    "mmd", "md"
+                    "mmd"
                 ],
                 "mimeTypes": [
                     "text/html"
